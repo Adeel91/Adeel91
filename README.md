@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Muhammad Adeel, a **Senior Frontend Engineer** based out of Berlin working at [Dizzbo GmbH](https://www.dizzbo.com). Having around 10 years of experience in full-stack web development, but since 2021, I'm professionally working as a Frontend Engineer. To see my profile in detail, I recommend to look at my LinkedIn profile.
+I'm Muhammad Adeel, an Engineering Lead based in Berlin at [goodcarbon GmbH](https://www.goodcarbon.earth), with around 12 years of experience in software development. For a detailed view of my profile, check out my LinkedIn.
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-adeel-9ba19951/)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@muhammad-adeel-91)
