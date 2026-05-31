@@ -1,10 +1,23 @@
 ### Hi there 👋
 
-I'm Muhammad Adeel, an Engineering Lead based in Berlin at [goodcarbon GmbH](https://www.goodcarbon.earth), with around 12 years of experience in software development. For a detailed view of my profile, check out my LinkedIn.
+I'm Muhammad Adeel, an Engineering Lead based in Berlin, with over 12 years of experience in software development. For a detailed view of my profile, check out my LinkedIn.
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-adeel-9ba19951/)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@muhammad-adeel-91)
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/5650328/adeel)
+
+---
+
+### 🚀 Next.js Portfolio & Data Architectures
+
+I design, build, and scale digital web properties using **Next.js (SSR & ISR)** deployed on **Vercel**. My architectures leverage **GitHub Actions** workflows and cloud-native integrations for automated data pipeline management and intelligent semantic processing.
+
+*   **[Make Some Pennies](https://makesomepennies.com)** - A personal finance and side-hustle directory. Uses **GitHub Actions** pipelines and **Google Gemini** models to analyze, structure, and categorize highly dynamic micro-task and remote gig data, served via Next.js ISR.
+*   **[Leverage Signals](https://leveragesignals.com)** - A macroeconomic and market analysis portal. Implements Next.js server-side rendering (SSR) to process complex financial inputs, utilizing cloud-based LLM nodes to assist in semantic data tagging and technical market analysis.
+*   **[CollectPoke](https://collectpoke.com)** - A programmatic trading card game database. It ingests large-scale card datasets via the **TCGdex API** for Pokémon and Lorcana, blending structured database architecture with intelligent metadata generation deployed via Next.js ISR.
+*   **[SparklinGames](https://sparklingames.com)** - A cloud-native casual gaming hub. Programmatically integrates dynamic HTML5 arcade feeds via the **GamePix API**, utilizing Next.js edge caching and SSR on Vercel to optimize web-game distribution and rendering metrics.
+
+---
 
 ## Skills
 
@@ -33,6 +46,8 @@ I'm Muhammad Adeel, an Engineering Lead based in Berlin at [goodcarbon GmbH](htt
 ![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=for-the-badge&logo=bitbucket)
 ![jquery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 
+---
+
 ## Stats
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=Adeel91&count_private=true&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=false) &nbsp;
@@ -40,8 +55,12 @@ I'm Muhammad Adeel, an Engineering Lead based in Berlin at [goodcarbon GmbH](htt
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Adeel91.Adeel91)
 
+---
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy-private.vercel.app/?username=Adeel91&&rank=SSS,SS,S,AAA,AA,A,B,C,UNKNOWN,SECRET&margin-w=4&theme=radical)
+
+---
 
 ## 📝 Top Blog Posts
 
